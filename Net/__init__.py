@@ -1,0 +1,1 @@
+__all__ = ['BCI2021_net', 'EEGNet_net']
